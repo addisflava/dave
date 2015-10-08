@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/libs/kryo-2.21-all.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="86ea1749e48ba99b4b30ae85c6f176c2de633202">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/kryo-2.21-all-dde76ed96ef757c2501d882c18f303873e70d235.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-cd1553e6e2b5f597c059bcf57f28c060f0a2824f.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/library-2.4.0-eda31797a835c91c736c4ae8eb8d25c05e3252b3.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.fourthline.cling/cling-core/2.0.1/c588b1493c6f92f3e63755c9b763c740546f805a/cling-core-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c588b1493c6f92f3e63755c9b763c740546f805a">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/cling-core-2.0.1-80f321d47689162806fe82099789f29063dd25dc.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/dsub/Server Proxy/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="88c2ca01ccad9cf3acea3eaf7cf0fe8d83af183b">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-483fcd85d9c73fe0228455a3219b2e865eced35d.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-55f88d0ea8bd3ee4f5c1c9e1f2df4f04e2236728.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/8.1.16.v20140903/f0df21b38057d2937fc30052f36ac5579d968855/jetty-server-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f0df21b38057d2937fc30052f36ac5579d968855">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-server-8.1.16.v20140903-993b640abfa8fde34cfb51eb47e9ff3775ada490.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/8.1.16.v20140903/795b475235e065e4c26c22b9222c51cf100e76be/jetty-http-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="795b475235e065e4c26c22b9222c51cf100e76be">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-http-8.1.16.v20140903-3ea3f9d29738725f449628a514b4dedc717c5585.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-20e36f0226803d314929b880344df64aa83163c2.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/8.1.16.v20140903/a373470a15a6edddac3ec3e96c5dd5a1b795362c/jetty-util-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a373470a15a6edddac3ec3e96c5dd5a1b795362c">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-util-8.1.16.v20140903-9eaa0ce36970230776bbb2b89f1d00094dffbf69.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3ae231b4fc4ff0e7647bdcf28d532ec199161701">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-c43e22ac0e6228c9b233eec4eff027369d289d4c.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.seamless/seamless-xml/1.1.0/497f05ee745c564e0ab5c26e66e60d4f7502fba3/seamless-xml-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="497f05ee745c564e0ab5c26e66e60d4f7502fba3">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/seamless-xml-1.1.0-2b54970900aa97117778d4b9b24fd7cc7975cb5e.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-65e5e99994bed7c9425d4490e58d8fc58215d1b2.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.seamless/seamless-util/1.1.0/ef025cdbb79c4a031148b20a6d59db89c72ea0a3/seamless-util-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ef025cdbb79c4a031148b20a6d59db89c72ea0a3">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/seamless-util-1.1.0-17fd6cbe3532cacbf0459a6cdf8da5b9faeea4d6.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.seamless/seamless-swing/1.1.0/9ceae59cb0b977a4103d9a52b5e777d2e259678b/seamless-swing-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9ceae59cb0b977a4103d9a52b5e777d2e259678b">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/seamless-swing-1.1.0-89e6e51698e8d8dbbeab177289cf73e67c6aa410.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-6b5a4eee74abf2addc6e552b7e716f78b8364537.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c1200ab3b93b8f42c0878b00eb79a84c1f112cf7">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-585084aff3b8704035fb6b676800b625953d3627.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-b5ead7163eb248bc4207e0262f4bbcd92a1a9939.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/8.1.16.v20140903/4dfffb93d65b72f4390c94fa47f2f77af6d1f737/jetty-client-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4dfffb93d65b72f4390c94fa47f2f77af6d1f737">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-client-8.1.16.v20140903-9390f71cfc5fe907393739015ef0b4d33f6bd01d.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="f8761a2a7a8faedf6e8bcb1a14bcf1a8e7346eb8">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-daab82def06a1d529c4ee804c5f3dad1bc0c47ea.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/libs/CWAC-AdapterWrapper.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="42fa7b3166daea965ad9f9d936e30e65c73211a6">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/CWAC-AdapterWrapper-8fb44b8e0b0407875b751022ebd58f99af8c0c14.jar" />
+    </item>
+    <item
+        jar="/home/dave/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-57d7911f84b0c7516026519d4c5b3f38ed545e91.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/8.1.16.v20140903/c9167b815c585e207e8167f7ff4adc6ee817c03f/jetty-security-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c9167b815c585e207e8167f7ff4adc6ee817c03f">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-security-8.1.16.v20140903-f5b15f186138c072f9983d4b05b13aac54617c27.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/8.1.16.v20140903/447d6b4f1db3f2bc5306a71dda136c40fdd9aff7/jetty-io-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="447d6b4f1db3f2bc5306a71dda136c40fdd9aff7">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-io-8.1.16.v20140903-d71184376017c4b37c8870dfb254505a286e3b51.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/8.1.16.v20140903/56c5c05e854df74c32365a97ca8e1c71c0725df9/jetty-servlet-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="56c5c05e854df74c32365a97ca8e1c71c0725df9">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-servlet-8.1.16.v20140903-9811483041aa6629cf4ba510948caec930f4dcb1.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.seamless/seamless-http/1.1.0/463012d16bcb06a623d3b931a6cfe19e4beace63/seamless-http-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="463012d16bcb06a623d3b931a6cfe19e4beace63">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/seamless-http-1.1.0-656ad826d29fe1cb0ed019c9ab731c3c8208ef93.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-a676b148bb5921cc9da13c5a06ddc0a05a178ea4.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/libs/CWAC-EndlessAdapter.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a71c3c3951ce533b17b229271cd085ceb835c725">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/CWAC-EndlessAdapter-61e2e5c1c9ced9f3ec9c831c2cc2c456d827187e.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.fourthline.cling/cling-support/2.0.1/3be864b366ec15b075a936ecaeec731d8c62eba3/cling-support-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3be864b366ec15b075a936ecaeec731d8c62eba3">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/cling-support-2.0.1-6e7c11d5fa0ce6f40d71f7aec741b11600ee729f.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/aaaa85845fb5c59da00193f06b8e5278d8bf3f8/javax.servlet-3.0.0.v201112011016.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0aaaa85845fb5c59da00193f06b8e5278d8bf3f8">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/javax.servlet-3.0.0.v201112011016-4ec0fe7c5710a5fdf3b7cfe2173c86d8941680d9.jar" />
+    </item>
+    <item
+        jar="/home/dave/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/8.1.16.v20140903/c4ec345d8113bcedf6531f4bd2adff89b004e288/jetty-continuation-8.1.16.v20140903.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c4ec345d8113bcedf6531f4bd2adff89b004e288">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/jetty-continuation-8.1.16.v20140903-c8b7391c5571750716294663ca4a7320de4e4e7a.jar" />
+    </item>
+    <item
+        jar="/home/dave/StudioProjects/dsub/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/home/dave/StudioProjects/dsub/app/build/intermediates/pre-dexed/debug/classes-b57c68d7207f4ebbe75d91ebd8285c5e234bbea5.jar" />
+    </item>
+
+</items>

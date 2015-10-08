@@ -1,0 +1,220 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/abstract_activity.xml #generated:17
+-keep class android.support.design.widget.NavigationView { <init>(...); }
+
+# view res/layout/layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view res/layout/abstract_activity.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:130
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abstract_recycler_fragment.xml #generated:2
+# view res/layout/chat.xml #generated:2
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.internal.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.internal.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abstract_recycler_fragment.xml #generated:18
+# view res/layout/create_user.xml #generated:73
+# view res/layout/download_playlist.xml #generated:27
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/abstract_fragment_activity.xml #generated:17
+# view res/layout/abstract_fragment_activity.xml #generated:41
+# view res/layout/settings_activity.xml #generated:7
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view AndroidManifest.xml #generated:12
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view res/layout/abstract_fragment_activity.xml #generated:1
+-keep class com.sothree.slidinguppanel.SlidingUpPanelLayout { <init>(...); }
+
+# view res/layout/drawer_header.xml #generated:52
+-keep class de.hdodenhof.circleimageview.CircleImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class github.daneren2005.dsub.activity.EditPlayActionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class github.daneren2005.dsub.activity.QueryReceiverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class github.daneren2005.dsub.activity.SettingsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class github.daneren2005.dsub.activity.SubsonicFragmentActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class github.daneren2005.dsub.activity.VoiceQueryReceiverActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:246
+-keep class github.daneren2005.dsub.provider.DSubSearchProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class github.daneren2005.dsub.provider.DSubWidget4x1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class github.daneren2005.dsub.provider.DSubWidget4x2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:218
+-keep class github.daneren2005.dsub.provider.DSubWidget4x3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:229
+-keep class github.daneren2005.dsub.provider.DSubWidget4x4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:267
+-keep class github.daneren2005.dsub.provider.MostRecentStubProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:249
+-keep class github.daneren2005.dsub.provider.PlaylistStubProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:255
+-keep class github.daneren2005.dsub.provider.PodcastStubProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:261
+-keep class github.daneren2005.dsub.provider.StarredStubProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class github.daneren2005.dsub.receiver.A2dpIntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class github.daneren2005.dsub.receiver.AudioNoisyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class github.daneren2005.dsub.receiver.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class github.daneren2005.dsub.receiver.MediaButtonIntentReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:240
+-keep class github.daneren2005.dsub.receiver.PlayActionReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class github.daneren2005.dsub.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class github.daneren2005.dsub.service.HeadphoneListenerService { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class github.daneren2005.dsub.service.sync.AuthenticatorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class github.daneren2005.dsub.service.sync.MostRecentSyncService { <init>(...); }
+
+# view AndroidManifest.xml #generated:124
+-keep class github.daneren2005.dsub.service.sync.PlaylistSyncService { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class github.daneren2005.dsub.service.sync.PodcastSyncService { <init>(...); }
+
+# view AndroidManifest.xml #generated:148
+-keep class github.daneren2005.dsub.service.sync.StarredSyncService { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class github.daneren2005.dsub.util.SettingsBackupAgent { <init>(...); }
+
+# view res/layout/download_media_buttons.xml #generated:16
+# view res/layout/download_media_buttons.xml #generated:47
+-keep class github.daneren2005.dsub.view.AutoRepeatButton { <init>(...); }
+
+# view res/layout/abstract_recycler_fragment.xml #generated:24
+# view res/layout/download_playlist.xml #generated:33
+-keep class github.daneren2005.dsub.view.FastScroller { <init>(...); }
+
+# view land/res/layout-land/download.xml #generated:18
+# view large-land-v4/res/layout-large-land-v4/download.xml #generated:33
+# view port/res/layout-port/download.xml #generated:13
+-keep class github.daneren2005.dsub.view.MyViewFlipper { <init>(...); }
+
+# view land/res/layout-land/download.xml #generated:24
+# view large-land-v4/res/layout-large-land-v4/download.xml #generated:18
+# view port/res/layout-port/download.xml #generated:32
+# view res/layout/abstract_fragment_activity.xml #generated:58
+# view res/layout/album_list_item.xml #generated:13
+# view res/layout/chat_item.xml #generated:8
+# view res/layout/chat_item_reverse.xml #generated:58
+# view res/layout/playlist_list_item.xml #generated:8
+# view res/layout/select_album_header.xml #generated:113
+# view res/layout/user_header.xml #generated:7
+# view res/layout/user_list_item.xml #generated:8
+-keep class github.daneren2005.dsub.view.RecyclingImageView { <init>(...); }
+
+# view res/xml/settings.xml #generated:199
+# view res/xml/settings.xml #generated:361
+# view res/xml/settings.xml #generated:439
+# view res/xml/settings.xml #generated:449
+-keep class github.daneren2005.dsub.view.SeekBarPreference { <init>(...); }
+
+# view res/layout/album_cell_item.xml #generated:13
+# view res/layout/playlist_cell_item.xml #generated:8
+-keep class github.daneren2005.dsub.view.SquareImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class org.fourthline.cling.android.AndroidUpnpServiceImpl { <init>(...); }
+
